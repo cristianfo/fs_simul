@@ -64,6 +64,7 @@ int fs_create(char* input_file, char* simul_file){
 
 	/* Write the code to load a new file to the simulated filesystem. */
 	
+	//teste git
 	ds_stop();
 	
 	return 0;
